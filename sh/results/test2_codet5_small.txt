@@ -1,0 +1,372 @@
+[Time: 56m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9304
+
+[Time: 31m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.1172
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9048
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9084
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9231
+
+[Time: 55m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9495
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9259
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9226
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9293
+
+[Time: 55m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9495
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8923
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9125
+
+[Time: 39m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9293
+
+[Time: 47m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9327
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9327
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9192
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9226
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9316
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9316
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9349
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9414
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9316
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9381
+
+[Time: 43m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8993
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9094
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 39m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9161
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9094
+
+[Time: 1h1m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9262
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9128
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8926
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9094
+
+[Time: 57m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 46m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 56m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 50m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 49m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 7m] saved_models/test2/codet5_small_all_lr5_bs4_src400_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.2353
+
+[Time: 11m] saved_models/test2/codet5_small_all_lr5_bs4_src500_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.3137
+
+[Time: 19m] saved_models/test2/codet5_small_all_lr5_bs4_src1024_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.7255
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src500_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.3235
+
+[Time: 24m] saved_models/test2/codet5_small_all_lr5_bs4_src1024_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.5196
+
+[Time: 21m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.4706
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8627
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9430
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8624
+
+[Time: 34m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8893
+
+[Time: 28m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9262
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9396
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9709
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 50m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9446
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0337
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0337
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0337
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0337
+
+[Time: 44m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9428
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9084
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8804
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9216
+
+[Time: 9m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0294
+
+[Time: 8m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0294
+
+[Time: 8m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.0294
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9706
+
+[Time: 37m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9070
+
+[Time: 1h2m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8974
+
+[Time: 48m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9360
+
+[Time: 1h3m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9251
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9967
+
+[Time: 54m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9027
+
+[Time: 38m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8993
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 37m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 1.0000
+
+[Time: 33m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 36m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8993
+
+[Time: 53m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9027
+
+[Time: 1h3m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9251
+
+[Time: 48m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9360
+
+[Time: 1h7m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8974
+
+[Time: 40m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9070
+
+[Time: 41m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9706
+
+[Time: 34m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9216
+
+[Time: 36m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8804
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9084
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9428
+
+[Time: 50m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9446
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9216
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8804
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9084
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9428
+
+[Time: 50m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9446
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9195
+
+[Time: 42m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9396
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9709
+
+[Time: 29m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9709
+
+[Time: 26m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9709
+
+[Time: 37m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9806
+
+[Time: 25m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9295
+
+[Time: 36m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9228
+
+[Time: 25m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9329
+
+[Time: 25m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9329
+
+[Time: 28m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9060
+
+[Time: 28m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9161
+
+[Time: 45m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9414
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9327
+
+[Time: 28m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9360
+
+[Time: 28m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9428
+
+[Time: 25m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8864
+
+[Time: 32m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.8938
+
+[Time: 35m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9048
+
+[Time: 25m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9136
+
+[Time: 26m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9804
+
+[Time: 26m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9804
+
+[Time: 26m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9804
+
+[Time: 22m] saved_models/test2/codet5_small_all_lr5_bs4_src800_trg3_pat2_e31/checkpoint-best-acc/pytorch_model.bin
+[best-acc] acc: 0.9804
+
